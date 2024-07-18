@@ -1,5 +1,5 @@
 {
-    "name":        "php-units-of-measure/php-units-of-measure",
+    "name":        "gen10/php-units-of-measure",
 
     "description": "A PHP library for converting between standard units of measure.",
 
@@ -7,7 +7,7 @@
          "measurements", "data", "conversion"
      ],
 
-    "homepage":    "https://github.com/PhpUnitsOfMeasure/php-units-of-measure",
+    "homepage":    "https://github.com/gen10/php-units-of-measure",
 
     "license": "MIT",
 
@@ -38,7 +38,7 @@
     "replace": {
         "triplepoint/php-units-of-measure": "*"
     },
-    
+
     "autoload": {
         "psr-4": {
             "PhpUnitsOfMeasure\\": "source/"
