@@ -17,6 +17,7 @@ class Mass extends AbstractPhysicalQuantity
         $kilogram = UnitOfMeasure::nativeUnitFactory('kg');
         $kilogram->addAlias('kilogram');
         $kilogram->addAlias('kilograms');
+        $kilogram->addAlias('Kg');
         $kilogram->addAlias('(kg)');
         $kilogram->addAlias('(kg).');
         $kilogram->addAlias('(Kg).');
